@@ -8,7 +8,7 @@ For events-related requests, please contact directly our facebook page: https://
 
 
 
-English, Français or Español please :)
+English, Français or Español please, otherwise it may take longer for us to take it into account :)
 
 
 
