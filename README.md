@@ -15,4 +15,4 @@ English, Français or Español please, otherwise it may take longer for us to ta
 We will try to solve issues as fast as we can!
 
 
-More info on our facebook page or our website: http://www.mapdance.com
+More info on our facebook page or our website: https://mapdance.com
