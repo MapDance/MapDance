@@ -1,8 +1,7 @@
 # MapDance
 
-This is the place where you can notify some bugs/improvement requests/... about the app:
-https://github.com/MapDance/MapDance/issues
-
+You can notify bugs/suggest about MapDance on our website: 
+https://mapdance.com/About/Contact
 
 For requests related to events, please contact us directly through our facebook page: 
 https://facebook.com/mapdance.info
